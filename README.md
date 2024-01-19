@@ -15,5 +15,6 @@ Version: Python3
 
 ## 依赖库
 ```pycon
-pip freeze > requirements.txt
+ # pip freeze > requirements.txt
+ pip install -r requirements.txt
 ```
